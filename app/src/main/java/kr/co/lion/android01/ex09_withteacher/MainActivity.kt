@@ -152,9 +152,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
-
-
     //ReCyclerView의 어댑터
     inner class ReCyclerViewAdapter: RecyclerView.Adapter<ReCyclerViewAdapter.ViewHolderClass>(){
 

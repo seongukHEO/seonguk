@@ -53,6 +53,7 @@ class InputActivity : AppCompatActivity() {
 
                 //현재 엑티비티를 종료한다
                 finish()
+                //주석 추가!
             }
         }
 
