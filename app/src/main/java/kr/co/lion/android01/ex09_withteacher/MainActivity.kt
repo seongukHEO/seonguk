@@ -181,6 +181,7 @@ class MainActivity : AppCompatActivity() {
                     newIntent.putExtra("obj1", studentList[adapterPosition])
 
                     showInfoActivityLauncher.launch(newIntent)
+                    //이건 어떤가요?
                 }
             }
         }
